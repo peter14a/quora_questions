@@ -7,7 +7,9 @@ This project contains the following files:
 1. Machine Learning Engineer Nanodegree - Capstone Project.pdf
 2. MachineLearningNanodegree-CapstoneProposal_v2.pdf
 3. Udacity Capstone Project - Final.ipynb
-4. Data used for project, including: train.csv, test.csv, and sample_submission.csv
+4. Data used for project (https://www.kaggle.com/c/quora-question-pairs/data), includes: train.csv, test.csv, and sample_submission.csv
+
+Kaggle Quora Question Project URL: https://www.kaggle.com/c/quora-question-pairs
 
 This project was coded in Python 2.7. The following python packages and libraries were used:
 - import numpy as np
